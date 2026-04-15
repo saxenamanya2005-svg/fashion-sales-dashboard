@@ -1,4 +1,4 @@
-# 👗 Fashion E-Commerce Sales Dashboard
+# 👗Fashion E-Commerce Sales Analytics Dashboard
 
 ## 🚀 Project Overview
 This project presents an interactive Power BI dashboard designed to analyze fashion e-commerce sales data. The dashboard provides actionable insights into sales performance, customer behavior, and product trends to support data-driven business decisions.
