@@ -39,12 +39,6 @@ This dashboard helps solve these problems using data visualization.
 - Top cities contribute significantly to total revenue  
 - A few top brands dominate overall sales performance  
 
----
-
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
-[Click to view full image](dashboard.png)
 
 ---
 
